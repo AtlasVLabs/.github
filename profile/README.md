@@ -2,7 +2,7 @@
 
 Atlas V Labs is my personal engineering portfolio and a space to explore new ideas through hands-on development.
 
-Projects span embedded systems, electronics, firmware, and software—from early experiments to working prototypes. Each project reflects an interest in understanding how systems work and turning concepts into practical designs.
+Projects span embedded systems, electronics, firmware, and software. Each project reflects an interest in understanding how systems work and turning concepts into practical designs.
 
 ## Focus Areas
 
